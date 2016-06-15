@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dialog - Async Task</string>
+    <string name="button_dialog">Show Dialog</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Enter a Number</string>
+    <string name="dialog_title">Successful</string>
+    <string name="dialog_message">Completed</string>
+    <string name="ok">Ok</string>
+    <string name="progress">Please wait for %1$s seconds...</string>
+
+</resources>
